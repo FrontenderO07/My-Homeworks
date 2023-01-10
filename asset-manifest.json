@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/FrontenderO07.github.io/My-Homeworks/static/css/main.b3b7bef8.css",
-    "main.js": "/FrontenderO07.github.io/My-Homeworks/static/js/main.028a23b1.js",
-    "index.html": "/FrontenderO07.github.io/My-Homeworks/index.html",
-    "main.b3b7bef8.css.map": "/FrontenderO07.github.io/My-Homeworks/static/css/main.b3b7bef8.css.map",
-    "main.028a23b1.js.map": "/FrontenderO07.github.io/My-Homeworks/static/js/main.028a23b1.js.map"
+    "main.css": "/My-Homeworks/static/css/main.b3b7bef8.css",
+    "main.js": "/My-Homeworks/static/js/main.028a23b1.js",
+    "index.html": "/My-Homeworks/index.html",
+    "main.b3b7bef8.css.map": "/My-Homeworks/static/css/main.b3b7bef8.css.map",
+    "main.028a23b1.js.map": "/My-Homeworks/static/js/main.028a23b1.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b7bef8.css",
