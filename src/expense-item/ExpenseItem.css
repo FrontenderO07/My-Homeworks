@@ -1,0 +1,12 @@
+.listHead {
+  padding: 30px;
+  background-color: teal;
+  width: 700px;
+  height: 100%;
+  border-radius: 30px;
+  margin-top: 30px;
+  margin-left: 250px;
+  color: lightgreen;
+  font-weight: 700;
+  font-size: x-large;
+}

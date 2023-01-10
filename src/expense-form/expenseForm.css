@@ -1,0 +1,12 @@
+.buttonExpenseForm {
+  display: flex;
+  margin-left: 350px;
+}
+.formInputTextAndNumber {
+  display: flex;
+  margin-left: 300px;
+}
+.dataInput {
+  width: 200px;
+  margin-left: 500px;
+}
